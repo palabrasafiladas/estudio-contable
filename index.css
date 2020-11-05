@@ -1,3 +1,7 @@
+body{
+  background-color:#d2d3c9;
+
+}
 .text-studio {
   color: #75c2af !important;
 }
@@ -50,7 +54,9 @@
 #servicios {
   background-color: #3c9d9b;
   color: white;
-
+  padding:0;
+  
+  
 }
 
 #servicios img {
@@ -60,14 +66,34 @@
 
 }
 
+.caja_info{
+  padding:30px;
+}
+
+.contenedor_filosofia{
+
+    background-color:#d6e0f0;
+    border-radius: 4px;
+    margin: 40px auto;
+    padding: 20px;
+    /* box-shadow: 10px 5px 5px  rgb(161, 159, 159; */
+    box-shadow: 1px 1px #d6e0f0, 5px 0 0.4em rgb(161, 159, 159);
+    width: 95%;
+    align-items:center ;
+
+
+}
+.titulo_filosofia{
+  color: #273b47;
+  margin-bottom: 20px;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
 #footer {
   background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
 }
 
 #footer a {
   color: white;
-}
-
-.servicios_realizamos {
-  margin-top: 2px;
 }
