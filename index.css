@@ -67,14 +67,14 @@ body{
 }
 
 .caja_info{
-  padding:30px;
+  padding:20px 0;
 }
 
 .contenedor_filosofia{
 
     background-color:#d6e0f0;
     border-radius: 4px;
-    margin: 40px auto;
+    margin: 30px auto;
     padding: 20px;
     /* box-shadow: 10px 5px 5px  rgb(161, 159, 159; */
     box-shadow: 1px 1px #d6e0f0, 5px 0 0.4em rgb(161, 159, 159);
@@ -85,7 +85,7 @@ body{
 }
 .titulo_filosofia{
   color: #273b47;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-family: 'Ubuntu', sans-serif;
 
 }
