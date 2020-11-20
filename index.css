@@ -3,9 +3,17 @@ body{
 
 }
 .text-studio {
+  color: #75c2af ;
+  font-weight: bold;}
+
+.nav-link{
+  color:#b9ffe3 ;
+  font-weight: bold;
+}
+.nav-link:hover {
   color: #75c2af !important;
 }
-
+  
 
 .btn-studio {
   background-color: #75c2af;
@@ -13,7 +21,7 @@ body{
 }
 
 .btn-studio:hover {
-  background-color: #5c9b8b;
+  background-color: #6fddc1;
 }
 
 #header {
@@ -21,7 +29,7 @@ body{
 }
 
 #header img {
-  width: 80px;
+  width: 200px;
  
 }
 
@@ -97,3 +105,4 @@ body{
 #footer a {
   color: white;
 }
+
